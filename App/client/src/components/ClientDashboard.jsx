@@ -6,7 +6,7 @@ import styles, { layout } from "../style";
 const ClientDashboard = () => {
   const handleSend = () => {
     window.open(
-      "https://github.com/star-gazer111/AntiMEV/blob/dev/README.md",
+      "https://github.com/star-gazer111/MEVSpy/blob/main/README.md",
       "_blank"
     );
   };
